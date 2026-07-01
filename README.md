@@ -1,5 +1,5 @@
 <h1 style="display: flex; align-items: center; gap: 8px;">
-  <img src="src/assets/img/tomatinho2.svg" width="40" alt="Logo POMOMATES">
+  <img src="src/main/resources/assets/imgtomatinho2.svg" width="40" alt="Logo POMOMATES">
   POMOMATES
 </h1>
 
